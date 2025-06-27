@@ -1,4 +1,10 @@
-## Hi there 👋
+## ![👋 Halo, saya Azzam Saefudin Rosyidi!](github-header-image.png)
+
+<!-- #### 🎓 Pendidikan
+>**Informatika, Universitas Diponegoro**
+
+#### 💻 Skills
+>****  -->
 
 <!--
 **azzamsaefudin25/azzamsaefudin25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
